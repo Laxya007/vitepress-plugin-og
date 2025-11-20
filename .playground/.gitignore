@@ -1,2 +1,2 @@
 .vitepress/dist
-public/og
+**/public/og

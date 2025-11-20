@@ -2,8 +2,10 @@ import { defineConfig } from 'vitepress'
 import { addOgImage } from 'vitepress-plugin-og'
 
 export default defineConfig({
-  async transformPageData(pageData) {
-    await addOgImage(pageData, {
+  srcDir: 'src',
+
+  async transformPageData(pageData, ctx) {
+    await addOgImage(pageData, ctx, {
       domain: 'https://soubiran.dev',
     })
   },

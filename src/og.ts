@@ -6,6 +6,15 @@ import sharp from 'sharp'
 
 const templates = new Map<string, string>()
 
+function escapeHtml(unsafe: string) {
+  return unsafe
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;')
+}
+
 export async function generateOgImage(
   { title }: { title: string },
   output: string,
@@ -28,9 +37,9 @@ export async function generateOgImage(
     .filter(Boolean)
 
   const data: Record<string, string> = {
-    line1: lines[0],
-    line2: lines[1],
-    line3: lines[2],
+    line1: lines[0] ? escapeHtml(lines[0]) : '',
+    line2: lines[1] ? escapeHtml(lines[1]) : '',
+    line3: lines[2] ? escapeHtml(lines[2]) : '',
   }
 
   const svg = ogTemplate.replace(/\{\{([^}]+)\}\}/g, (_, name) => data[name] || '')

